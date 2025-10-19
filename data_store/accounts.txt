@@ -1,0 +1,8 @@
+B1|bob_buyer|200
+B1,2025-10-19,200,topup demo
+KEI|KEI|7.89895e+06
+KEI,2025-10-19,7.899e+06,topup
+KEI,2025-10-19,-50,purchase I1
+S1|alice_seller|50
+S1,2025-10-19,0,seller start
+S1,2025-10-19,50,sale I1
